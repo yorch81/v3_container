@@ -1,0 +1,18 @@
+{
+    "name": "yorch/v3ctorwh",
+    "description": "V3ctorWH on Docker",
+    "type": "project",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "Jorge Alberto Ponce Turrubiates",
+            "email": "the.yorch@gmail.com",
+            "homepage": "http://yorch.atwebpages.com/"
+        }
+    ],
+    "require": {
+    	"php": ">=5.4.0",
+        "yorch/v3wh": "dev-master",
+        "yorch/v3application": "dev-master"
+    }
+}
